@@ -9,6 +9,7 @@ An exploratory data analysis intended to develop a deeper understanding of the A
 Python Version: 3.9.9
 
 Data Source: ["Adidas Fashion Retail Products Dataset" by The Devastator](https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod)
+- Note that "breadcrumb" in this dataset refers to product categories such as "Men/Shoes" and "Originals/Accessories".
 
 Packages: pandas, numpy, matplotlib, seaborn, os, PIL, wordcloud
 
