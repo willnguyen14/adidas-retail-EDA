@@ -48,5 +48,12 @@ Changes made to dataframe before analyzing:
 
 ## Visualizations
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Viz Screenshot](hist.png)
+![Viz Screenshot](scatter1.png)
+![Viz Screenshot](scatter2.png)
+![Viz Screenshot](bar_subplot.png)
+### Word Cloud for Product Names
+![Viz Screenshot](wordcloud1.png)
+### Word CLoud for Product Descriptions
+![Viz Screenshot](wordcloud2.png)
 
