@@ -6,14 +6,14 @@ An exploratory data analysis intended to develop a deeper understanding of the A
 
 ## Documentation
 
-Python Version: 3.9.9
+**Python Version:** 3.9.9
 
-Data Source: ["Adidas Fashion Retail Products Dataset" by The Devastator](https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod)
+**Data Source:** ["Adidas Fashion Retail Products Dataset" by The Devastator](https://www.kaggle.com/datasets/thedevastator/adidas-fashion-retail-products-dataset-9300-prod)
 - Note that "breadcrumb" in this dataset refers to product categories such as "Men/Shoes" and "Originals/Accessories".
 
-Packages: pandas, numpy, matplotlib, seaborn, os, PIL, wordcloud
+**Packages:** pandas, numpy, matplotlib, seaborn, os, PIL, wordcloud
 
-Article Guide: ["How to make Word Clouds in Python that Don’t Suck" by Anupama Garla](https://towardsdatascience.com/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f)
+**Article Guide:** ["How to make Word Clouds in Python that Don’t Suck" by Anupama Garla](https://towardsdatascience.com/how-to-make-word-clouds-in-python-that-dont-suck-86518cdcb61f)
 ## Wordcloud Installation
 
 Make sure "Pillow" is installed before importing libraries for wordcloud.
@@ -60,6 +60,6 @@ Changes made to dataframe before analyzing:
 ## Word Cloud for Product Names
 ![Viz Screenshot](wordcloud1.png)
 
-## Word CLoud for Product Descriptions
+## Word Cloud for Product Descriptions
 ![Viz Screenshot](wordcloud2.png)
 
